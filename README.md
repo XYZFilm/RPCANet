@@ -4,7 +4,7 @@ This repository is the implementation of RPCANet and RPCANet++
 
 [2025] **RPCANet++**: Deep Interpretable Robust PCA for Sparse Object Segmentation.
 
- [![](https://img.shields.io/badge/Webpage-RPCANet++-green)](https://fengyiwu98.github.io/rpcanetx/) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/RPCANet) 
+[![](https://img.shields.io/badge/Link-Paper-blue)](http://arxiv.org/abs/2508.04190) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/fengyiwu98/RPCANet) [![](https://img.shields.io/badge/Webpage-RPCANet++-green)](https://fengyiwu98.github.io/rpcanetx/) 
 > **Authors:** Fengyi Wu, Yimian Dai,Tianfang Zhang, Yixuan Ding, Jian Yang, Ming-Ming Cheng, and Zhenming Peng. 
 
 [2024] **RPCANet**: Deep Unfolding RPCA Based Infrared Small Target Detection.
