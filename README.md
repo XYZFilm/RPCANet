@@ -1,4 +1,4 @@
-# RPCANet and RPCANet++
+# RPCANet++ and RPCANet
 
 This repository is the implementation of RPCANet and RPCANet++ 
 
@@ -260,6 +260,17 @@ If you have any problem, please do not hesitate to contact us via wufengyi98@163
 
 
 ## Citation
+```
+@misc{wu2025rpcanet_pp,
+      title={RPCANet++: Deep Interpretable Robust PCA for Sparse Object Segmentation}, 
+      author={Fengyi Wu and Yimian Dai and Tianfang Zhang and Yixuan Ding and Jian Yang and Ming-Ming Cheng and Zhenming Peng},
+      year={2025},
+      eprint={2508.04190},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.04190}, 
+}
+```
 ```
 @InProceedings{Wu_2024_WACV,
     author    = {Wu, Fengyi and Zhang, Tianfang and Li, Lei and Huang, Yian and Peng, Zhenming},
